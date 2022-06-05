@@ -1,7 +1,5 @@
+import { Widget } from './componets/Widget';
 
-
-function App() {
-  return <h1>Hello word</h1>
+export function App() {
+  return <Widget />;
 }
-
-export default App
